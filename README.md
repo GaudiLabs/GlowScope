@@ -1,2 +1,2 @@
 # GlowScope
-Open Source 3D Printed Fluorescent Microscope
+Open Source 3D Printed Fluorescence Microscope
